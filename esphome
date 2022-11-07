@@ -16,14 +16,14 @@ ota:
 
 
 wifi:
-  ssid: "IOT"
-  password: "homeassistant"
+  ssid: "####"
+  password: "#######"
 
 
   # Enable fallback hotspot (captive portal) in case wifi connection fails
   ap:
-    ssid: "Esphome-Web-064D30"
-    password: "KWW0DapBzwsM"
+    ssid: "#####"
+    password: "######"
 
 captive_portal:
 

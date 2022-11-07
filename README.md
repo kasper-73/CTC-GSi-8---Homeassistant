@@ -9,7 +9,7 @@ RJ12 cable cut in half an connected to NodeMCU ESP32
 
 Pinout for the RJ12 cable connected to the display of the CTC heat pump
 
-![image-png-Jun-29-2022-09-29-07-52-AM](https://user-images.githubusercontent.com/71944008/200332214-63fd21a7-54ce-4be7-8b95-4aae05a2bc62.png)
+![image-png-Jun-29-2022-09-29-07-52-AM](https://user-images.githubusercontent.com/71944008/200346393-598ecfbc-5bc0-45ca-adbf-1e089296bc18.png)
 
 1: GND
 
